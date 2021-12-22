@@ -1,0 +1,8 @@
+                                                                EXPRESS
+
+npm expressWe install it with --save because it is part which will be on production
+
+all about middleware
+next(); to allow the middleware to go to another middleware; We use it when we don't send a response
+
+MVC - separation of Concerns
